@@ -12,6 +12,7 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/netlify": "^8.2.4",
     "@iconify-json/akar-icons": "^1.2.7",
     "@iconify-json/ant-design": "^1.2.8",
     "@iconify-json/basil": "^1.2.4",

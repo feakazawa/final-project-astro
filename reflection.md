@@ -1,12 +1,3 @@
-Include a reflection.md file at the project root. A few short paragraphs covering:
-
-Which approach you chose for the product pages
-Why you chose it
-The benefit over the alternatives
-Any limitations or trade-offs
-The hosted link to your deployed site (see below)
-This is where we evaluate your understanding — be honest and specific.
-
 ## My reflections
 
 ### Which approach you chose for the product pages
